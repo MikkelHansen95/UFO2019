@@ -57,3 +57,13 @@ ___
     Video comments do contain comments like "nice" with no contribution or anything else so it just presents itself kinda like spam.
     No links to any documentation, reputable person, sources etc.
     ```
+
+
+## Google queries
+
+* 
+    ```
+    02/11 10:53 : https://www.google.dk/search?client=opera&q=problems+with+scrum&sourceid=opera&ie=UTF-8&oe=UTF-8
+    ```
+
+    
