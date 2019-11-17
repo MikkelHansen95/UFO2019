@@ -1,5 +1,46 @@
-# Assignment 1
+### Hand-in - Assignment - 1
 
+### Browser history
+
+For some reason the browser didn't save my history, so i don't have time stamps.
+And some of the searches are missing.
+
+```
+https://en.wikipedia.org/wiki/Steganography
+http://blog.justsophie.com/image-steganography-in-python/
+https://www.techwalla.com/articles/how-do-i-find-hidden-text-in-a-picture
+https://www.youtube.com/watch?v=fkCZxOI_w-c
+https://www.inversecos.com/2017/06/a-guide-to-cracking-steganography-least.html
+http://blog.justsophie.com/image-steganography-in-python/
+https://codeigo.com/python/convert-bytes-to-string
+https://www.youtube.com/watch?v=TWEXCYQKyDc
+```
+
+### A list of the 3 most biggest stumbling blocks
+
+1. The first stumbling block was the lack of knowledge about finding hidden messages in pictures and Steganography.
+
+2. The second stumbling block was the amount of research we had to do to get a understanding of the Steganography and then use that knowledge in the exercise.
+
+3. The third stumbling block was finding a way to code and solve the exercise.
+We had a hard time finding the hidden message. We had to look up a lot of guides on how to approch this exercise. But in the end we didn't manage to find the hidden message.
+
+### Diary
+
+```
+10:30 start
+10:30 
+    What: Reaseaching the internet for information on Steganography.
+    Problem: The lack of knowlege of Steganography.
+    Done in: 90 mins
+12:00 Getting ready to code a solution.
+12:15
+    what: Codeing the decoding part.
+    Problem: Had problems with converting the least significant bit to a message.
+    Done in: 2 hours
+14:15 Couldnt find a way to solve the decoding part, so we stopped codeing and started on the hand-in.
+```
+--- 
 ## Exercise A
 
 ### Which of the following two questions do you expect will be easiest to answer?
